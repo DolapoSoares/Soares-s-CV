@@ -1,0 +1,27 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.intro{
+    border-bottom: 2px solid burlywood;
+}
+.main{
+    position: relative;
+    float: right;
+    width: 70%;
+    margin-top: 0;
+}
+img{
+    border-radius: 50%;
+}
+#contact{
+    position: relative;
+    width: 25%;
+    float: left;
+    background-color: aliceblue;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-top: 10px;;
+}
+h6{
+    font-size: 24px;
+}
